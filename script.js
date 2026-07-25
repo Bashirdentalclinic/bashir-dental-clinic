@@ -4,7 +4,7 @@
 
 const CLINIC_WHATSAPP = "923070745426";
 const CLINIC_PHONE_TEL = "+923070745426";
-const GOOGLE_SCRIPT_URL = "PASTE_YOUR_APPS_SCRIPT_WEB_APP_URL_HERE";
+const GOOGLE_SCRIPT_URL = "const GOOGLE_SCRIPT_URL = "https://script.google.com/macros/s/AKfycbxa0pOWLAv3V5gzZkwfsSyIEpS0BqopUipgf2IYeeuDJ3Yd3qR_gkrBeKlNwg_G-Vw-Cg/exec";";
 
 // ---- Mobile nav toggle ----
 function toggleNav() {
